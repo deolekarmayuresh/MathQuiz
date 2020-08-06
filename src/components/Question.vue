@@ -88,4 +88,5 @@
             this.generateQuestion();
         }
     }
+    
 </script>
