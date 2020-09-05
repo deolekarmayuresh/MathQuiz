@@ -1,4 +1,4 @@
-# mathquiz
+#A Math Quiz 🧐❔
 
 > A Vue.js Project based on Animations
 
